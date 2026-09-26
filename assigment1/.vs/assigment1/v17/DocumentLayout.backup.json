@@ -1,12 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eng Naima\\Documents\\Adobe\\assigment1\\",
+  "WorkspaceRootPath": "C:\\Users\\Eng Naima\\Desktop\\C#-PRACTICE\\C-1_Practice1\\assigment1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B72E8AE1-2708-4904-BC8F-C3FF1ABAD138}|assigment1\\assigment1.csproj|c:\\users\\eng naima\\desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eng Naima\\Desktop\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B72E8AE1-2708-4904-BC8F-C3FF1ABAD138}|assigment1\\assigment1.csproj|c:\\users\\eng naima\\desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eng Naima\\Desktop\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,29 +16,29 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Eng Naima\\Desktop\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Form1.cs",
-              "ToolTip": "C:\\Users\\Eng Naima\\Desktop\\Form1.cs*",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\Form1.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAUwDAAAABUAAAAAAAAAA==",
+              "RelativeDocumentMoniker": "..\\..\\..\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eng Naima\\Desktop\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-20T13:35:25.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Eng Naima\\Desktop\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Form1.cs",
-              "ToolTip": "C:\\Users\\Eng Naima\\Desktop\\Form1.cs [Design]*",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\Form1.cs [Design]*",
+              "RelativeDocumentMoniker": "..\\..\\..\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eng Naima\\Desktop\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-20T13:31:23.005Z",
               "EditorCaption": " [Design]"
