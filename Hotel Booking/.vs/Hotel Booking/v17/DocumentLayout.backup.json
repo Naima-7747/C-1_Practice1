@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eng Naima\\Desktop\\all folder\\C-1_Practice1\\Hotel Booking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7115F5-E027-4A63-A7A8-FB10BE1DAFEF}|Hotel Booking\\Hotel Booking.csproj|c:\\users\\eng naima\\desktop\\all folder\\c-1_practice1\\hotel booking\\hotel booking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE7115F5-E027-4A63-A7A8-FB10BE1DAFEF}|Hotel Booking\\Hotel Booking.csproj|solutionrelative:hotel booking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7115F5-E027-4A63-A7A8-FB10BE1DAFEF}|Hotel Booking\\Hotel Booking.csproj|c:\\users\\eng naima\\desktop\\all folder\\c-1_practice1\\hotel booking\\hotel booking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7115F5-E027-4A63-A7A8-FB10BE1DAFEF}|Hotel Booking\\Hotel Booking.csproj|solutionrelative:hotel booking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Naima\\Desktop\\all folder\\C-1_Practice1\\Hotel Booking\\Hotel Booking\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotel Booking\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eng Naima\\Desktop\\all folder\\C-1_Practice1\\Hotel Booking\\Hotel Booking\\Form1.cs*",
+              "RelativeToolTip": "Hotel Booking\\Form1.cs*",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAQwPYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:48:10.256Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eng Naima\\Desktop\\all folder\\C-1_Practice1\\Hotel Booking\\Hotel Booking\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotel Booking\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eng Naima\\Desktop\\all folder\\C-1_Practice1\\Hotel Booking\\Hotel Booking\\Form1.cs [Design]*",
+              "RelativeToolTip": "Hotel Booking\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:47:20.265Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
