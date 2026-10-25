@@ -1,0 +1,11 @@
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\bin\Debug\lapAssigment.exe.config
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\bin\Debug\lapAssigment.exe
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\bin\Debug\lapAssigment.pdb
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\obj\Debug\lapAssigment.csproj.AssemblyReference.cache
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\obj\Debug\lapAssigment.Form1.resources
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\obj\Debug\lapAssigment.Properties.Resources.resources
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\obj\Debug\lapAssigment.csproj.GenerateResource.cache
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\obj\Debug\lapAssigment.csproj.CoreCompileInputs.cache
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\obj\Debug\lapAssigment.exe
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\obj\Debug\lapAssigment.pdb
+C:\Users\Eng Naima\Documents\Adobe\lapAssigment\lapAssigment\obj\Debug\lapAssigment.exe.config

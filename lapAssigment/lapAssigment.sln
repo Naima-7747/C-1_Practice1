@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lapAssigment", "lapAssigment\lapAssigment.csproj", "{6F673F8E-296F-4E3B-BFDE-52423277C276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F673F8E-296F-4E3B-BFDE-52423277C276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F673F8E-296F-4E3B-BFDE-52423277C276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F673F8E-296F-4E3B-BFDE-52423277C276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F673F8E-296F-4E3B-BFDE-52423277C276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D5AFE4C-43B6-4458-B610-2EC4022E9D50}
+	EndGlobalSection
+EndGlobal
