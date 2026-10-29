@@ -1,0 +1,11 @@
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\bin\Debug\Assigmen_File.exe.config
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\bin\Debug\Assigmen_File.exe
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\bin\Debug\Assigmen_File.pdb
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\obj\Debug\Assigmen_File.csproj.AssemblyReference.cache
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\obj\Debug\Assigmen_File.Form1.resources
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\obj\Debug\Assigmen_File.Properties.Resources.resources
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\obj\Debug\Assigmen_File.csproj.GenerateResource.cache
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\obj\Debug\Assigmen_File.csproj.CoreCompileInputs.cache
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\obj\Debug\Assigmen_File.exe
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\obj\Debug\Assigmen_File.pdb
+C:\Users\Eng Naima\Documents\Adobe\Assigmen_File\Assigmen_File\obj\Debug\Assigmen_File.exe.config
