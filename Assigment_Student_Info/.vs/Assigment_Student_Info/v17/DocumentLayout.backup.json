@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eng Naima\\Documents\\Adobe\\Assigment_Student_Info\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E2446-E3DC-4B12-A214-A43D79D0006D}|Assigment_Student_Info\\Assigment_Student_Info.csproj|c:\\users\\eng naima\\documents\\adobe\\assigment_student_info\\assigment_student_info\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E2446-E3DC-4B12-A214-A43D79D0006D}|Assigment_Student_Info\\Assigment_Student_Info.csproj|solutionrelative:assigment_student_info\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E2446-E3DC-4B12-A214-A43D79D0006D}|Assigment_Student_Info\\Assigment_Student_Info.csproj|c:\\users\\eng naima\\documents\\adobe\\assigment_student_info\\assigment_student_info\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D04E2446-E3DC-4B12-A214-A43D79D0006D}|Assigment_Student_Info\\Assigment_Student_Info.csproj|solutionrelative:assigment_student_info\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Naima\\Documents\\Adobe\\Assigment_Student_Info\\Assigment_Student_Info\\Form1.cs",
+              "RelativeDocumentMoniker": "Assigment_Student_Info\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eng Naima\\Documents\\Adobe\\Assigment_Student_Info\\Assigment_Student_Info\\Form1.cs*",
+              "RelativeToolTip": "Assigment_Student_Info\\Form1.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwDwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:55:29.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eng Naima\\Documents\\Adobe\\Assigment_Student_Info\\Assigment_Student_Info\\Form1.cs",
+              "RelativeDocumentMoniker": "Assigment_Student_Info\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eng Naima\\Documents\\Adobe\\Assigment_Student_Info\\Assigment_Student_Info\\Form1.cs [Design]*",
+              "RelativeToolTip": "Assigment_Student_Info\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:16:06.791Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

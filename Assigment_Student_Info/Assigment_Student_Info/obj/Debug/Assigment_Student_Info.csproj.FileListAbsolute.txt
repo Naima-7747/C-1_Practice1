@@ -1,0 +1,10 @@
+C:\Users\Eng Naima\Documents\Adobe\Assigment_Student_Info\Assigment_Student_Info\bin\Debug\Assigment_Student_Info.exe.config
+C:\Users\Eng Naima\Documents\Adobe\Assigment_Student_Info\Assigment_Student_Info\bin\Debug\Assigment_Student_Info.exe
+C:\Users\Eng Naima\Documents\Adobe\Assigment_Student_Info\Assigment_Student_Info\bin\Debug\Assigment_Student_Info.pdb
+C:\Users\Eng Naima\Documents\Adobe\Assigment_Student_Info\Assigment_Student_Info\obj\Debug\Assigment_Student_Info.csproj.AssemblyReference.cache
+C:\Users\Eng Naima\Documents\Adobe\Assigment_Student_Info\Assigment_Student_Info\obj\Debug\Assigment_Student_Info.Form1.resources
+C:\Users\Eng Naima\Documents\Adobe\Assigment_Student_Info\Assigment_Student_Info\obj\Debug\Assigment_Student_Info.Properties.Resources.resources
+C:\Users\Eng Naima\Documents\Adobe\Assigment_Student_Info\Assigment_Student_Info\obj\Debug\Assigment_Student_Info.csproj.GenerateResource.cache
+C:\Users\Eng Naima\Documents\Adobe\Assigment_Student_Info\Assigment_Student_Info\obj\Debug\Assigment_Student_Info.csproj.CoreCompileInputs.cache
+C:\Users\Eng Naima\Documents\Adobe\Assigment_Student_Info\Assigment_Student_Info\obj\Debug\Assigment_Student_Info.exe
+C:\Users\Eng Naima\Documents\Adobe\Assigment_Student_Info\Assigment_Student_Info\obj\Debug\Assigment_Student_Info.pdb
